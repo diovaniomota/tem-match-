@@ -1,7 +1,10 @@
-# TemMatch
+# Tem Match
 
-A new Flutter project.
 
-## Getting Started
+This application connects investors to Startups.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+An investor who wants to invest in a Startup but doesn't know where to start can register and meet some Startups and talk.
+
+##
+
+*Projeto desenvolvido em Flutter*
